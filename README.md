@@ -4,8 +4,9 @@
 这是一个合成大西瓜的魔改项目，贴图设置为东南大学等高校校徽，最大与最小水果均为东南大学。
 
 <div align=center>
-<img src="https://github.com/Luciferbobo/Merge_SEU/blob/main/Fig/6eac2f5fdc225e2593eee4c9c00a2dc.jpg" width="250" height="405"> 
+
 </div>
+<img src="https://github.com/Luciferbobo/Merge_SEU/blob/main/Fig/6eac2f5fdc225e2593eee4c9c00a2dc.jpg" width="250" height="405"> 
 
 体验链接：http://byzeal.cn/Merge_SEU/Merge_SEU.html (手机端体验最佳)
 
